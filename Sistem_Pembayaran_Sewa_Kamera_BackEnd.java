@@ -1,4 +1,4 @@
-package Latihan_mandiri;
+package Program_Java;
 
 // Algoritma Sistem_Penyewaan_Kamera
 import java.util.Scanner;
